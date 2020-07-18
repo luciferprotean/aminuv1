@@ -166,7 +166,7 @@ footer {
 } 
 
  .banner-area .banner-img{
-  background-image : url(../img/bannerImg.png);
+  background-image : url(../../src/img/bannerImg.png);
   position : absolute;
   top : 0;
   list-style-position : outside;
