@@ -1,0 +1,24 @@
+{
+  "name": "aminu-web-app",
+  "version": "1.0.0",
+  "description": "Building the Aminu PWA",
+  "main": "app.js",
+  "scripts": {
+    "start": "http-server -c-1 -p 1717"
+  },
+  "keywords": [
+    "pwa",
+    "progressive",
+    "web",
+    "app"
+  ],
+  "author": "Sharad C",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  },
+  "dependencies": {
+    "git": "^0.1.5",
+    "nodemon": "^2.0.4"
+  }
+}
